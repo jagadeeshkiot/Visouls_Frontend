@@ -15,7 +15,7 @@ Visitors can subscribe with their email address to get notified when the main pl
 
 ---
 
-## 🏗️ Project Structure
+##🏗️ Project Structure
 
 📁 Visouls-Frontend
 │
