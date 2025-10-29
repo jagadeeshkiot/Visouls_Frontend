@@ -25,7 +25,7 @@ Visitors can subscribe with their email address to get notified when the main pl
   ├── 🖼️ image/ → Image assets 
   │  ├── logo.png 
   │  └── icon.png 
-  └── 📘 README.md → Project documentation ``` </pre>
+  └── 📘 README.md → Project documentation  </pre>
 
 
 ## ⚙️ Setup Instructions
