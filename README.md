@@ -14,10 +14,7 @@ Visitors can subscribe with their email address to get notified when the main pl
 - 🎨 Smooth typography and minimal aesthetic  
 
 ---
-
-## 🏗️ Project Structure
-
-## 🏗️ Project Structure ``` 📁 Visouls-Frontend │ ├── 📄 index.html → Main HTML file ├── 🎨 style.css → Page styling and layout ├── ⚙️ script.js → Handles form submission and UI logic ├── 🔐 config.js → Backend API configuration (excluded from Git) │ ├── 🖼️ image/ → Image assets │ ├── logo.png │ └── icon.png │ └── 📘 README.md → Project documentation ```
+<pre> ## 🏗️ Project Structure ``` 📁 Visouls-Frontend │ ├── 📄 index.html → Main HTML file ├── 🎨 style.css → Page styling and layout ├── ⚙️ script.js → Handles form submission and UI logic ├── 🔐 config.js → Backend API configuration (excluded from Git) │ ├── 🖼️ image/ → Image assets │ ├── logo.png │ └── icon.png │ └── 📘 README.md → Project documentation ``` </pre>
 ---
 
 ## ⚙️ Setup Instructions
