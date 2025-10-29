@@ -14,7 +14,8 @@ Visitors can subscribe with their email address to get notified when the main pl
 - 🎨 Smooth typography and minimal aesthetic  
 
 ---
-<pre> ## 🏗️ Project Structure ``` 
+## 🏗️ Project Structure
+<pre> 
   📁 Visouls-Frontend 
   │ 
   ├── 📄 index.html → Main HTML file
@@ -23,9 +24,9 @@ Visitors can subscribe with their email address to get notified when the main pl
   ├── 🔐 config.js → Backend API configuration (excluded from Git) 
   ├── 🖼️ image/ → Image assets 
   │  ├── logo.png 
-  │  └── icon.png │ 
+  │  └── icon.png 
   └── 📘 README.md → Project documentation ``` </pre>
----
+
 
 ## ⚙️ Setup Instructions
 
