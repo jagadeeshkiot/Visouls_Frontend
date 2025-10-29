@@ -64,10 +64,6 @@ Hosted on **Netlify** — you can deploy easily by:
 - Drag-and-dropping your folder into the Netlify dashboard, or  
 - Connecting this GitHub repo to Netlify for automatic redeploys.
 
-### 🔹 Backend
-Hosted on **Render**, accessible at:
-https://visoul-deployment.onrender.com/visoul
-
 ---
 
 ## 🖋️ Author
