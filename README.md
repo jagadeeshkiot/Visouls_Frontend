@@ -27,7 +27,6 @@ Visouls-Frontend/
 │   └── icon.png
 └── README.md
 
-
 ---
 
 ## ⚙️ Setup Instructions
@@ -74,9 +73,9 @@ https://visoul-deployment.onrender.com/visoul
 
 ## 🖋️ Author
 
-**Jagadeesh KIOT**  
+**Jagadeesh K IOT**  
 📧 sjagadeesh668@gmail.com  
-🌐 https://www.instagram.com/iamjagah/?idgh=YmlyZnp3Z3RxNm5l#  
+🌐 https://www.instagram.com/visouls.in/  
 🐦 https://x.com/visoulsofficial
 
 ---
