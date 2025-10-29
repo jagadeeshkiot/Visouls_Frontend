@@ -42,7 +42,7 @@ cd <your-repo-name>
 Create a file named **config.js** in the root folder and add:
 ```
 const CONFIG = {
-  REST_API_BASE_URL: "https://your-backend-url.com/visoul"
+  REST_API_BASE_URL: "https://your-backend-url.com/"
 };
 ```
 
@@ -75,11 +75,10 @@ Hosted on **Netlify** — you can deploy easily by:
 **Jagadeesh K IOT**  
 📧 sjagadeesh668@gmail.com  
 🌐 https://www.instagram.com/visouls.in/  
-🐦 https://x.com/visoulsofficial
 
 ---
 
 ## 🛡️ License
 
-This project is open-source and available under the **MIT License**.  
-Feel free to modify or use it for educational purposes.
+- This project is open-source and available under the **MIT License**.  
+- Feel free to modify or use it for educational purposes.
