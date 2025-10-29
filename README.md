@@ -18,8 +18,8 @@ Visitors can subscribe with their email address to get notified when the main pl
 ## 🏗️ Project Structure
 
 Visouls-Frontend/
-│
-├── index.html          # Main HTML file
+
+ index.html          # Main HTML file
 ├── style.css           # Styling for the page
 ├── script.js           # Handles form submission and UI updates
 ├── config.js           # Backend URL (excluded from Git for safety)
