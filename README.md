@@ -31,16 +31,20 @@ Visitors can subscribe with their email address to get notified when the main pl
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
+```
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
+```
 
 ### 2️⃣ Add your own `config.js`
 ⚠️ The `config.js` file is **not included** in this repository for security reasons.
 
 Create a file named **config.js** in the root folder and add:
+```
 const CONFIG = {
   REST_API_BASE_URL: "https://your-backend-url.com/visoul"
 };
+```
 
 ### 3️⃣ Open the project
 Simply open the `index.html` file in your browser — no build step required.
