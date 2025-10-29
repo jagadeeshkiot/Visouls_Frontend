@@ -72,7 +72,7 @@ Hosted on **Netlify** — you can deploy easily by:
 
 ## 🖋️ Author
 
-**Jagadeesh K IOT**  
+**Jagadeesh KIOT**  
 📧 sjagadeesh668@gmail.com  
 🌐 https://www.instagram.com/visouls.in/  
 
