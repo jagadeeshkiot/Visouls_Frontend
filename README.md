@@ -70,11 +70,10 @@ Hosted on **Netlify** — you can deploy easily by:
 
 ---
 
-## 🖋️ Author
+## Contact
 
-**Jagadeesh KIOT**  
+**Jagadeesh S**  
 📧 sjagadeesh668@gmail.com  
-🌐 https://www.instagram.com/visouls.in/  
 
 ---
 
