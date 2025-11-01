@@ -2,7 +2,7 @@
 
 A simple and elegant **Coming Soon** landing page for **Visouls**, built using **HTML, CSS, and JavaScript**.  
 Visitors can subscribe with their email address to get notified when the main platform launches.
-<img width="1880" height="915" alt="welcome" src="https://github.com/user-attachments/assets/9d4ef131-bd64-4377-9ef0-120feda40e40" />
+<img width="1887" height="972" alt="welcome1" src="https://github.com/user-attachments/assets/80016504-5647-497f-8628-8845a101c6e0" />
 
 ---
 
