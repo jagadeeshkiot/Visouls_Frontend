@@ -70,11 +70,18 @@ Hosted on **Netlify** — you can deploy easily by:
 - Connecting this GitHub repo to Netlify for automatic redeploys.
 
 ---
+## 👥 Contributors
+
+Gowtham — Frontend design & development
+Jagadeesh S — Deployment, backend integration, and UI/logic refinements
+
+---
 
 ## Contact
 
-**Jagadeesh S**  
-📧 sjagadeesh668@gmail.com  
+**Jagadeesh S** , **Gowtham T**
+📧 sjagadeesh668@gmail.com
+📧 kuttygowtham985@gmail.com
 
 ---
 
