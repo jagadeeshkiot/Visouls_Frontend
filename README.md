@@ -72,16 +72,16 @@ Hosted on **Netlify** — you can deploy easily by:
 ---
 ## 👥 Contributors
 
-Gowtham — Frontend design & development
-Jagadeesh S — Deployment, backend integration, and UI/logic refinements
+- Gowtham — Frontend design & development
+- Jagadeesh S — Deployment, backend integration, and UI/logic refinements
 
 ---
 
 ## Contact
 
 **Jagadeesh S** , **Gowtham T**
-📧 sjagadeesh668@gmail.com
-📧 kuttygowtham985@gmail.com
+-📧 sjagadeesh668@gmail.com
+-📧 kuttygowtham985@gmail.com
 
 ---
 
